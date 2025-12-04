@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Car",
+    "vid": "1",
+    "brand": "Lada",
+    "model": "Granta"
+  },
+  {
+    "type": "Truck",
+    "vid": "2",
+    "brand": "KAMAZ",
+    "model": "6520"
+  },
+  {
+    "type": "Motorcycle",
+    "vid": "3",
+    "brand": "Ural",
+    "model": "Gear Up"
+  }
+]
